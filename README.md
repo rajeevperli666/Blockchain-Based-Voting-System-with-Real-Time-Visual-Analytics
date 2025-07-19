@@ -1,0 +1,2 @@
+# Blockchain-Based-Voting-System-with-Real-Time-Visual-Analytics
+A secure digital voting system built in Python using blockchain technology to ensure transparency and prevent tampering. Features include real-time vote tracking, fraud detection, interactive visualizations (bar/pie charts &amp; time-series), and CSV export for audit logs. The intuitive Gradio GUI provides separate views for voters and admins. 
